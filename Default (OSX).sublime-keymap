@@ -1,6 +1,6 @@
 [
     { 
-        "keys": ["super+shift+l"],
+        "keys": ["super+shift+c"],
         "command": "projname"
     }
 ]
